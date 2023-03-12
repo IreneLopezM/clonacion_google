@@ -1,9 +1,9 @@
 # Clonación de la interfaz de Google creado con HTML5 y CSS3  en el bootcamp de Tecnolochicas PRO. 
 ## **Índice**
-* [1. Intro](#)
-* [2. Qué construí](#)
-* [3. Obejtivo del proyecto](#)
-* [4. Link a demo](#)
+* [1. Intro](https://github.com/IreneLopezM/clonacion_google/edit/main/README.md#1-intro)
+* [2. Qué construí](https://github.com/IreneLopezM/clonacion_google/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Obejtivo del proyecto](https://github.com/IreneLopezM/clonacion_google/edit/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a demo](https://github.com/IreneLopezM/clonacion_google/edit/main/README.md#4-link-a-demo)
 
 ####
 
